@@ -1,40 +1,55 @@
-Intro to AI Applications, Vertex AI Search, and Agentspace
+Working with Gemini
 expand_more
 Enroll in the learning path
+https://partner.cloudskillsboost.google/paths/2294
 
-Complete the challenge lab at the end of this path to earn the Build search and recommendations applications with AI Applications skill badge.
-
-
-
-
-Data Stores for Gen AI Apps
-expand_more
-Enroll in the learning path
-
-Complete the challenge lab at the end of this path to earn the Create and maintain Vertex AI Search data stores skill badge.
-
-
-
-
-Configuring and Improving Search Results
-expand_more
-Enroll in the learning path
-
-Complete the challenge lab at the end of this path to earn the Configure AI Applications to optimize search results skill badge.
+Complete the challenge lab at the end of this path to earn the Extend Gemini with controlled generation and Tool use skill badge.
 
 
 
  
 
 
-Actions and Agents in Agentspace
+Developing, Tuning and Deploying Solutions using Model Garden Models
 expand_more
 Enroll in the learning path
+https://partner.cloudskillsboost.google/paths/2308
 
-Complete the challenge lab at the end of this path to earn the Extend Agentspace assistant capabilities skill badge.
+Complete the challenge lab at the end of this path to earn the Build Gen AI solutions using Model Garden models and APIs skill badge.
 
 
 
+ 
 
-Media Search and Recommendations
+
+Generating, Editing, and Responding to Media
 expand_more
+Enroll in the learning path
+https://partner.cloudskillsboost.google/paths/2309
+
+
+Complete the challenge lab at the end of this path to earn the Edit images with Imagen skill badge.
+
+
+
+
+Building RAG Applications with Vertex AI
+expand_more
+Enroll in the learning path
+https://partner.cloudskillsboost.google/paths/2310
+
+
+Complete the challenge lab at the end of this path to earn the Deploy a RAG application with vector search in Firestore skill badge.
+
+
+
+ 
+
+
+Evaluating Model and Agent Performance
+expand_more
+Enroll in the learning path
+https://partner.cloudskillsboost.google/paths/2311
+
+
+Complete the challenge lab at the end of this path to earn the Evaluate gen AI model and agent performance skill badge.
