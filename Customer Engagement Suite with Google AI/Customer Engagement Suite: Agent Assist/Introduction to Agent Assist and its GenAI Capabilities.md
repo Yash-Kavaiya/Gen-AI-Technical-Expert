@@ -221,8 +221,40 @@ Agent Assist focuses on conversation assistance features like sentiment analysis
 
 
 
+<img width="882" height="456" alt="image" src="https://github.com/user-attachments/assets/a9145b4c-9ec8-4e42-b105-f9d56b3e8412" />
+<img width="846" height="412" alt="image" src="https://github.com/user-attachments/assets/568844ed-5790-4cef-8491-fc6762c26b73" />
 
-Looking at these questions about Conversational Agents and Agent Assist configuration:
+<img width="810" height="446" alt="image" src="https://github.com/user-attachments/assets/e8fac4ae-6e30-4fba-a3c4-187f216ef932" />
+<img width="760" height="421" alt="image" src="https://github.com/user-attachments/assets/1d0eeda9-18b7-4aef-bce0-9949aa5a421f" />
+<img width="855" height="374" alt="image" src="https://github.com/user-attachments/assets/8988dc36-29ef-4c3e-b13b-79a3b6d05ba4" />
+<img width="821" height="362" alt="image" src="https://github.com/user-attachments/assets/eb5f7d41-16eb-493f-b7ff-afead226cb68" />
+
+<img width="749" height="428" alt="image" src="https://github.com/user-attachments/assets/8f0de67f-c62b-42ce-9b4a-01cd73431600" />
+
+<img width="763" height="453" alt="image" src="https://github.com/user-attachments/assets/7be6512d-e3fa-45c7-afba-6540c4b4d8c9" />
+
+<img width="910" height="461" alt="image" src="https://github.com/user-attachments/assets/a98b70c9-af35-4934-9074-d1a3418109a4" />
+
+<img width="825" height="429" alt="image" src="https://github.com/user-attachments/assets/97df08fe-d264-43dd-beba-3b886b24e1ca" />
+
+
+<img width="778" height="430" alt="image" src="https://github.com/user-attachments/assets/2d7e1c1b-63df-4c8b-bb62-bc6ec4946a2b" />
+
+<img width="795" height="421" alt="image" src="https://github.com/user-attachments/assets/cb74068d-113a-4b6b-af97-2d95b6cd44c6" />
+
+<img width="825" height="397" alt="image" src="https://github.com/user-attachments/assets/370c22de-d04d-4cf7-8f41-3f4ebc0094eb" />
+
+<img width="746" height="452" alt="image" src="https://github.com/user-attachments/assets/e048a33c-f800-46e7-851c-5bd27857b546" />
+<img width="664" height="466" alt="image" src="https://github.com/user-attachments/assets/f8133aa6-d644-4b9f-b600-b9439c919275" />
+<img width="863" height="406" alt="image" src="https://github.com/user-attachments/assets/8b2553c6-ab2b-4186-a8db-ad5cb912fcf1" />
+<img width="860" height="430" alt="image" src="https://github.com/user-attachments/assets/5abafb0f-3d99-4491-a9ba-968f95122df6" />
+
+<img width="733" height="346" alt="image" src="https://github.com/user-attachments/assets/de224f22-31ec-4391-9a60-c7743e56a935" />
+<img width="848" height="386" alt="image" src="https://github.com/user-attachments/assets/0f13715d-e1b5-4bc8-97a8-541037ec76b1" />
+
+
+<img width="817" height="361" alt="image" src="https://github.com/user-attachments/assets/749b0c2b-8a33-4afb-ab83-40223207173b" />
+
 
 **1. How is Agent Transfer typically configured in Conversational Agents for escalation to a human agent?**
 **Answer: By indicating the live agent handoff payload in the fulfillment part of the Intent.**
@@ -296,9 +328,15 @@ Performance evaluation is indeed critical for summarization feature enablement. 
 These elements are essential when defining sections for summaries - you need to specify the context for what should be included, the style/tone of the summary, and the format/structure it should follow. (Note: The last option "Dat" appears to be cut off, so I cannot definitively include it.)
 
 
+<img width="779" height="377" alt="image" src="https://github.com/user-attachments/assets/300b9d5e-e179-41a8-bd20-7a506cfae02a" />
+<img width="818" height="402" alt="image" src="https://github.com/user-attachments/assets/98769ee6-f48a-4923-b162-4ce172f01447" />
 
+<img width="777" height="449" alt="image" src="https://github.com/user-attachments/assets/f822bb36-4dfe-4898-8df7-e2f0698abbe8" />
 
+<img width="800" height="444" alt="image" src="https://github.com/user-attachments/assets/180702f3-4d77-4b72-b984-0ff33fce2817" />
+<img width="802" height="341" alt="image" src="https://github.com/user-attachments/assets/f6250ad5-b113-4bd5-9f3e-260710af47e1" />
 
+<img width="812" height="462" alt="image" src="https://github.com/user-attachments/assets/129da542-6716-4c3c-9a56-a9dc55e04cf0" />
 
 
 
