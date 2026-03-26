@@ -24,3 +24,10 @@ https://partner.skills.google/paths/2310
 #  Build with Vertex AI: Deploy Agents with Agent Development Kit (ADK), MCP, and A2A
 
 https://partner.skills.google/paths/3033
+
+### Labs
+
+- Get Started with Agent Development Kit (ADK) https://youtu.be/I3iVieBXtrs?si=Xn1MlCpeizzAnlSW
+- Empower ADK agents with tools https://youtu.be/54KvY6hpvmQ?si=5G8jrS70mItDSCq_
+- Build Multi-Agent Systems with ADK https://youtu.be/qF-79d6ubps?si=8bNDaqwyEseygc23
+- Deploy ADK agents to Agent Engine  https://youtu.be/bo0hcJPgm0g?si=KqWCsoXTDlxVqCov
