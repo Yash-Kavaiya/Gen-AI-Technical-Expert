@@ -31,3 +31,7 @@ https://partner.skills.google/paths/3033
 - Empower ADK agents with tools https://youtu.be/54KvY6hpvmQ?si=5G8jrS70mItDSCq_
 - Build Multi-Agent Systems with ADK https://youtu.be/qF-79d6ubps?si=8bNDaqwyEseygc23
 - Deploy ADK agents to Agent Engine  https://youtu.be/bo0hcJPgm0g?si=KqWCsoXTDlxVqCov
+- Use Model Context Protocol (MCP) Tools with ADK Agents
+- Connect to Remote Agents with ADK and the Agent2Agent (A2A) SDK
+- Evaluate ADK agent performance using the Vertex AI Generative AI Evaluation Service
+- Deploy an Agent with Agent Development Kit (ADK): Challenge Lab 
