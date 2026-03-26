@@ -21,6 +21,11 @@ https://partner.skills.google/paths/2309
 
 https://partner.skills.google/paths/2310
 
+Create Embeddings, Vector Search, and RAG with BigQuery 
+Implement RAG with Vertex AI
+Implement Hybrid Search
+Deploy a RAG application with vector search in Firestore
+
 #  Build with Vertex AI: Deploy Agents with Agent Development Kit (ADK), MCP, and A2A
 
 https://partner.skills.google/paths/3033
