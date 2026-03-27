@@ -5,6 +5,10 @@ Designed for technical professionals who want to leverage extended Gemini API ca
 
 https://partner.skills.google/paths/2294
 
+
+- Getting Started with Google Generative AI Using the Gen AI SDK
+- Prompt Design Strategies
+- 
 # Build with Vertex AI: Deploy and Evaluate Model Garden Models
 
 https://partner.skills.google/paths/2308
