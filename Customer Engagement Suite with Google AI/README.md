@@ -1,6 +1,10 @@
-Conversational Agents Foundations
-expand_more
-Enroll in the learning path
+
+
+Gemini Enterprise for Customer Experience: CX Agent Studio Foundations https://partner.skills.google/paths/522
+
+Create Agents with AI in CX Agent Studio :- 
+Create CX Agents Ready for Production
+Build agents with CX Agent Studio: Challenge Lab:-
 
 Complete the challenge lab at the end of this path to earn the Build basic Conversational Agents with Playbooks and Flows skill badge.
 
