@@ -1,4 +1,4 @@
-# ðŸ¤– Customer Engagement Suite with Google AI
+# Customer Engagement Suite with Google AI
 
 > Master Google's Conversational AI tools to build production-ready customer experience agents powered by Gemini.
 
@@ -8,32 +8,32 @@
 
 ---
 
-## ðŸ“š Learning Paths
+## Learning Paths
 
-### ðŸ§© Path 1 â€” CX Agent Studio Foundations
+### Path 1  CX Agent Studio Foundations
 **[Gemini Enterprise for Customer Experience: CX Agent Studio Foundations](https://partner.skills.google/paths/522)**
 
 Build your first AI-powered conversational agents using Google's CX Agent Studio â€” from zero to production-ready.
 
 | # | Module | Video |
 |---|--------|-------|
-| 1 | Create Agents with AI in CX Agent Studio | [â–¶ Watch](https://youtu.be/0lKsU1iRyBc) |
-| 2 | Create CX Agents Ready for Production | [â–¶ Watch](https://youtu.be/dfvBNr4uLjk) |
-| 3 | Build agents with CX Agent Studio: Challenge Lab | [â–¶ Watch](https://youtu.be/kX-DkvaHCiE) |
+| 1 | Create Agents with AI in CX Agent Studio | [Watch](https://youtu.be/0lKsU1iRyBc) |
+| 2 | Create CX Agents Ready for Production | [ Watch](https://youtu.be/dfvBNr4uLjk) |
+| 3 | Build agents with CX Agent Studio: Challenge Lab | [Watch](https://youtu.be/kX-DkvaHCiE) |
 
-ðŸ… **Skill Badge:** *Build basic Conversational Agents with Playbooks and Flows*
+**Skill Badge:** *Build basic Conversational Agents with Playbooks and Flows*
 
 ---
 
-### ðŸ”§ Path 2 â€” Conversational Agents Tools and Webhooks
+###  Path 2 Conversational Agents Tools and Webhooks
 
 Extend your agents with powerful integrations â€” tools, webhooks, and messenger platform connections.
 
-ðŸ… **Skill Badge:** *Extend virtual agents with webhooks, tools, and messenger integration*
+ **Skill Badge:** *Extend virtual agents with webhooks, tools, and messenger integration*
 
 ---
 
-### ðŸŽ¯ Path 3 â€” Agent Assist & CX Insights
+###  Path 3 Agent Assist & CX Insights
 
 Improve satisfaction for both customers and human agents with AI-powered assistance and analytics.
 
@@ -44,53 +44,39 @@ Improve satisfaction for both customers and human agents with AI-powered assista
 
 ---
 
-### ðŸš€ Path 4 â€” Production-Ready Conversational Agents
+###  Path 4 Production-Ready Conversational Agents
 
 Take your agents from prototype to production with reliability, scalability, and enterprise-grade best practices.
 
 ---
 
-## ðŸ—ºï¸ Learning Roadmap
 
-```
-CX Agent Studio Foundations
-        â†“
-Conversational Agents Tools & Webhooks
-        â†“
-Agent Assist & CX Insights
-        â†“
-Production-Ready Conversational Agents
-        â†“
-  ðŸ† Google Cloud Certified
-```
+
+## What You'll Learn
+
+- Build conversational agents using **Playbooks and Flows**
+- Integrate agents with **external tools and webhooks**
+- Connect agents to **messenger platforms**
+- Use **Agent Assist** to improve live agent productivity
+- Analyze customer interactions with **CX Insights**
+- Deploy **production-grade** conversational AI systems
 
 ---
 
-## ðŸŽ¯ What You'll Learn
-
-- âœ… Build conversational agents using **Playbooks and Flows**
-- âœ… Integrate agents with **external tools and webhooks**
-- âœ… Connect agents to **messenger platforms**
-- âœ… Use **Agent Assist** to improve live agent productivity
-- âœ… Analyze customer interactions with **CX Insights**
-- âœ… Deploy **production-grade** conversational AI systems
-
----
-
-## ðŸ”— Quick Links
+## Quick Links
 
 | Resource | Link |
 |----------|------|
-| ðŸŽ“ Google Skills for Partners | [partner.skills.google/paths/522](https://partner.skills.google/paths/522) |
-| â–¶ï¸ YouTube Playlist | Coming Soon |
-| ðŸ“˜ Dialogflow CX Docs | [cloud.google.com/dialogflow](https://cloud.google.com/dialogflow/cx/docs) |
-| ðŸ¤– Gemini Enterprise Docs | [cloud.google.com/gemini](https://cloud.google.com/gemini) |
+| Google Skills for Partners | [partner.skills.google/paths/522](https://partner.skills.google/paths/522) |
+| YouTube Playlist | Coming Soon |
+| Dialogflow CX Docs | [cloud.google.com/dialogflow](https://cloud.google.com/dialogflow/cx/docs) |
+| Gemini Enterprise Docs | [cloud.google.com/gemini](https://cloud.google.com/gemini) |
 
 ---
 
-## ðŸ‘¨â€ðŸ’» Author
+## Author
 
-**Yash Kavaiya** â€” Google Developer Expert (AI/ML)
+**Yash Kavaiya** Google Developer Expert (AI/ML)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yash--Kavaiya-181717?style=flat-square&logo=github)](https://github.com/Yash-Kavaiya)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@YashKavaiya)
