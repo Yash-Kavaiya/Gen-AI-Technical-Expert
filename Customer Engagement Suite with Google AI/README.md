@@ -18,18 +18,9 @@ Enroll in the learning path
 Complete the challenge lab at the end of this path to earn the Extend virtual agents with webhooks, tools, and messenger integration skill badge.
 
 
-Gemini Enterprise for Customer Experience: Agent Assist 
-
 Improve customer and agent satisfaction with Agent Assist: Challenge Lab :- https://youtu.be/xg9gOjj_ANI?si=arEtpR6xbYergNOa
 
-
-
-
-Conversational Insights
-expand_more
-Enroll in the learning path
-
-Complete the challenge lab at the end of this path to earn the Analyze patterns in conversational data with Conversational Insights skill badge.
+Gemini Enterprise for Customer Experience: Customer Experience Insights (CX Insights) :- https://youtu.be/oakuUzvLjBM
 
 
 
