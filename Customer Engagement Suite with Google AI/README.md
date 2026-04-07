@@ -6,8 +6,7 @@
 [![Gemini](https://img.shields.io/badge/Gemini-Enterprise-8E24AA?style=for-the-badge&logo=google&logoColor=white)](https://cloud.google.com/gemini)
 [![Dialogflow CX](https://img.shields.io/badge/Dialogflow-CX-FF6D00?style=for-the-badge&logo=dialogflow&logoColor=white)](https://cloud.google.com/dialogflow)
 
-![Learning Path](https://rsvp.withgoogle.com/events/partner-learning/gecx)
-
+(https://rsvp.withgoogle.com/events/partner-learning/gecx)
 ## Learning Paths
 
 ### Path 1  Gemini Enterprise for Customer Experience: CX Agent Studio Foundations
