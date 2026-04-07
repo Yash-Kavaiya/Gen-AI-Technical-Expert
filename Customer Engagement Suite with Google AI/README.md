@@ -28,8 +28,8 @@ Build your first AI-powered conversational agents using Google's CX Agent Studio
 
 | # | Module | Video |
 |---|--------|-------|
-| 1 | Configure and troubleshoot voice-based agents in CX Agent Studio | [Watch](https://youtu.be/0lKsU1iRyBc) |
-| 2 | Leverage data store and connectors in your CX Agent Studio | [ Watch](https://youtu.be/dfvBNr4uLjk) |
+| 1 | Configure and troubleshoot voice-based agents in CX Agent Studio | [Watch](https://youtu.be/cOuQppyE3kg) |
+| 2 | Leverage data store and connectors in your CX Agent Studio | [ Watch](https://youtu.be/rXKYdGX5gUI) |
 | 3 | Evaluate CX Agent Studio and implement the Quality Hill Climbing process | [Watch](https://youtu.be/kX-DkvaHCiE) |
 | 4 | Use CX Agent Studio memory and deterministic capabilities | |
 | 4 | Deploy agents to the web and third party channels from CX Agent Studio | |
