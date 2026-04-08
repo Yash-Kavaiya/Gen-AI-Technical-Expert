@@ -2,6 +2,9 @@
 
 > Master Google's Conversational AI tools to build production-ready customer experience agents powered by Gemini.
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/299f4dbb-66e2-4c9c-8264-3e6b8fb7b4c2" />
+
+
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-AI%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Gemini](https://img.shields.io/badge/Gemini-Enterprise-8E24AA?style=for-the-badge&logo=google&logoColor=white)](https://cloud.google.com/gemini)
 [![Dialogflow CX](https://img.shields.io/badge/Dialogflow-CX-FF6D00?style=for-the-badge&logo=dialogflow&logoColor=white)](https://cloud.google.com/dialogflow)
